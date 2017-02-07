@@ -1,0 +1,5 @@
+﻿PromoType,ID,Name,BuyItemID,DealItemID,BuyQuantity,DealQuantity,Discount
+AdditionalProdDiscount,P11,Buy One Get One Free,GI00,GI00,1,1,1
+AdditionalCrossProdDiscount,P12,Buy One Get One Free,GI20,GI60,1,1,1
+Sale,P22,25% Off,GI40,GI40,1,0,0.25
+GroupDiscount,P33,Buy 3 for $2.00,GI99,GI99, 3, 0,0.333
